@@ -10,4 +10,8 @@ type and number of deaths. Using this database, we can monitor the
 covid situation in hospitals across India. 
 
 DATABASE OVERVIEW:
+
 ![image](https://user-images.githubusercontent.com/100022296/180923492-997193b1-fa2d-4fc9-8a95-01205230d433.png)
+
+![image](https://user-images.githubusercontent.com/100022296/180923625-48274f08-2b35-46ec-80f9-5588d1d1a8fa.png)
+
